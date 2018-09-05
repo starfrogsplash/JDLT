@@ -1,0 +1,21 @@
+{
+  "name": "jdlt-tech-test",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "apollo-boost": "^0.1.15",
+    "jest-dom": "^1.12.0",
+    "react": "^16.4.2",
+    "react-apollo": "^2.1.11",
+    "react-dom": "^16.4.2",
+    "react-scripts": "1.1.5",
+    "react-testing-library": "^5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom setupTests.js",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {}
+}
