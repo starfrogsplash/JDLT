@@ -1,6 +1,8 @@
 ## Filtering Selection
 
-Technical test for JDLT
+Technical test for JDLT,
+
+made by using Node, GraphQL, Mongodb, React and Jest for testing
 
 ## Installation
 
